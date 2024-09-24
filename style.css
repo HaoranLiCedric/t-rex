@@ -1,0 +1,60 @@
+body{
+    background-color: black;
+    color: white;
+}
+.header{
+    background-image: url(images/volcano.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+
+    text-align: center;
+}
+
+.header-title{
+    font-family: "Cinzel",sans-serif;
+}
+
+.header-image{
+    width: 50%;
+}
+
+.main{
+    text-align: center;
+}
+
+.main-image{
+    width: 80%;
+}
+
+.caption{
+    font-size:  1.1rem;
+    font-style: italic;
+}
+
+.list{
+    list-style-position: inside;
+    list-style-type: lower-roman;
+}
+
+.list li{
+    font-family: "Permanent Maker",sans-serif;
+    font-size: 0.5em;
+}
+
+.table{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    border-spacing: 0;
+    border: 1px solid blue;
+}
+
+.th{
+    border: 3px solid gray;
+    padding: 0;
+}
+
+th,td{
+    border: 1px solid grey;
+}
